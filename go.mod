@@ -1,4 +1,4 @@
-module github/yy598162719/5grpc_server_demo
+module github.com/yy598162719/5grpc_server_demo
 
 go 1.16
 

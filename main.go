@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github/yy598162719/5grpc_server_demo/service"
+	"github.com/yy598162719/5grpc_server_demo/service"
 	"google.golang.org/grpc"
 	"log"
 	"net"
